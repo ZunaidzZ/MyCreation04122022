@@ -1,0 +1,53 @@
+.container{
+    margin-bottom: 70px;
+}
+
+#carousel{
+    background-image: url(/images/bg-1.png);
+    background-image: url(/images/bg-2.png);
+    
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px gray;
+}
+
+#smartphone a{
+    color: yellow;
+    font-weight: bolder;
+    text-decoration: none;
+}
+#laptop a{
+    color: yellow;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.card img{
+    padding: 50px;
+}
+
+.card-footer{
+    text-align: center;
+}
+
+.card-footer button{
+    background-color: black;
+}
+
+#categories h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.x2{
+    float: left;
+    margin: 50px;
+    size: 20px;
+}
+
+.x{
+    border: 1px;
+    box-shadow: 5px 5px 10px;
+}
